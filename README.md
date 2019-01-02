@@ -1,2 +1,2 @@
 # supreme-dollop
-a eCommerce site 
+eCommerce site 
